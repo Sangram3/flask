@@ -1,0 +1,23 @@
+.flex-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    
+}
+
+.flex1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    color: white;
+}
+
+.flex2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
